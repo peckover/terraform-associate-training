@@ -1,0 +1,1 @@
+data "local_file" "lab_08" { filename = var.filename }
