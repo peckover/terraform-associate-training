@@ -1,0 +1,9 @@
+Shopping list - 28 Jan 2025
+
+apples: 4
+
+beans: 3
+
+bread: 1
+
+things I don't need: 10
